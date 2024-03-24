@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "question": "¿Cuál es la capital de España?",
+      "correct_answer": "Madrid",
+      "answers": [ "Madrid", "Barcelona", "Valencia", "Sevilla" ]
+    },
+    {
+      "question": "¿Quién escribió Don Quijote de la Mancha?",
+      "correct_answer": "Miguel de Cervantes",
+      "answers": [ "Miguel de Cervantes", "Gabriel García Márquez", "Pablo Neruda", "Mario Vargas Llosa" ]
+    },
+    {
+      "question": "¿En qué continente se encuentra el desierto del Sahara?",
+      "correct_answer": "África",
+      "answers": [ "África", "Asia", "América", "Europa" ]
+    },
+    {
+      "question": "¿Cuál es el río más largo del mundo?",
+      "correct_answer": "Amazonas",
+      "answers": [ "Amazonas", "Nilo", "Yangtsé", "Misisipi" ]
+    },
+    {
+      "question": "¿Quién pintó La última cena?",
+      "correct_answer": "Leonardo da Vinci",
+      "answers": [ "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo" ]
+    },
+    {
+      "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "correct_answer": "Aluminio",
+      "answers": [ "Aluminio", "Hierro", "Cobre", "Plomo" ]
+    },
+    {
+      "question": "¿Cuántos continentes hay en el mundo?",
+      "correct_answer": "7",
+      "answers": [ "7", "5", "6", "8" ]
+    },
+    {
+      "question": "¿Quién fue el primer presidente de Estados Unidos?",
+      "correct_answer": "George Washington",
+      "answers": [ "George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams" ]
+    },
+    {
+      "question": "¿Cuál es la montaña más alta del mundo?",
+      "correct_answer": "Monte Everest",
+      "answers": [ "Monte Everest", "K2", "Kangchenjunga", "Lhotse" ]
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín?",
+      "correct_answer": "1989",
+      "answers": [ "1989", "1991", "1990", "1987" ]
+    }
+  ]
+}
