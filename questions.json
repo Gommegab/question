@@ -3,52 +3,461 @@
     {
       "question": "¿Cuál es la capital de España?",
       "correct_answer": "Madrid",
-      "answers": [ "Madrid", "Barcelona", "Valencia", "Sevilla" ]
+      "answers": ["Sevilla", "Madrid", "Barcelona", "Valencia"]
     },
     {
       "question": "¿Quién escribió Don Quijote de la Mancha?",
       "correct_answer": "Miguel de Cervantes",
-      "answers": [ "Miguel de Cervantes", "Gabriel García Márquez", "Pablo Neruda", "Mario Vargas Llosa" ]
+      "answers": ["Gabriel García Márquez", "Miguel de Cervantes", "Pablo Neruda", "Mario Vargas Llosa"]
     },
     {
       "question": "¿En qué continente se encuentra el desierto del Sahara?",
       "correct_answer": "África",
-      "answers": [ "África", "Asia", "América", "Europa" ]
+      "answers": ["Asia", "África", "Europa", "América"]
     },
     {
       "question": "¿Cuál es el río más largo del mundo?",
       "correct_answer": "Amazonas",
-      "answers": [ "Amazonas", "Nilo", "Yangtsé", "Misisipi" ]
+      "answers": ["Yangtsé", "Amazonas", "Nilo", "Misisipi"]
     },
     {
       "question": "¿Quién pintó La última cena?",
       "correct_answer": "Leonardo da Vinci",
-      "answers": [ "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo" ]
+      "answers": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"]
     },
     {
       "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
       "correct_answer": "Aluminio",
-      "answers": [ "Aluminio", "Hierro", "Cobre", "Plomo" ]
+      "answers": ["Plomo", "Aluminio", "Hierro", "Cobre"]
     },
     {
       "question": "¿Cuántos continentes hay en el mundo?",
       "correct_answer": "7",
-      "answers": [ "7", "5", "6", "8" ]
+      "answers": ["5", "7", "8", "6"]
     },
     {
       "question": "¿Quién fue el primer presidente de Estados Unidos?",
       "correct_answer": "George Washington",
-      "answers": [ "George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams" ]
+      "answers": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"]
     },
     {
       "question": "¿Cuál es la montaña más alta del mundo?",
       "correct_answer": "Monte Everest",
-      "answers": [ "Monte Everest", "K2", "Kangchenjunga", "Lhotse" ]
+      "answers": ["Kangchenjunga", "Monte Everest", "K2", "Lhotse"]
     },
     {
       "question": "¿En qué año cayó el Muro de Berlín?",
       "correct_answer": "1989",
-      "answers": [ "1989", "1991", "1990", "1987" ]
+      "answers": ["1991", "1987", "1989", "1990"]
+    },
+    {
+      "question": "¿Cuál es la capital de Francia?",
+      "correct_answer": "París",
+      "answers": ["Marsella", "París", "Lyon", "Toulouse"]
+    },
+    {
+      "question": "¿Quién fue el autor de 'La Odisea'?",
+      "correct_answer": "Homero",
+      "answers": ["Platón", "Sófocles", "Virgilio", "Homero"]
+    },
+    {
+      "question": "¿Qué país tiene forma de bota?",
+      "correct_answer": "Italia",
+      "answers": ["España", "Italia", "Francia", "Grecia"]
+    },
+    {
+      "question": "¿Quién escribió 'Cien años de soledad'?",
+      "correct_answer": "Gabriel García Márquez",
+      "answers": ["Pablo Neruda", "Gabriel García Márquez", "Mario Vargas Llosa", "Isabel Allende"]
+    },
+    {
+      "question": "¿Cuál es la moneda de Japón?",
+      "correct_answer": "Yen",
+      "answers": ["Dólar", "Euro", "Libra", "Yen"]
+    },
+    {
+      "question": "¿Cuál es el océano más grande del mundo?",
+      "correct_answer": "Océano Pacífico",
+      "answers": ["Océano Atlántico", "Océano Pacífico", "Océano Índico", "Océano Antártico"]
+    },
+    {
+      "question": "¿Quién es considerado el padre del psicoanálisis?",
+      "correct_answer": "Sigmund Freud",
+      "answers": ["Carl Jung", "Sigmund Freud", "Ivan Pavlov", "Erik Erikson"]
+    },
+    {
+      "question": "¿Cuál es el animal terrestre más grande del mundo?",
+      "correct_answer": "Elefante africano",
+      "answers": ["Oso polar", "Rinoceronte blanco", "Elefante africano", "Hipopótamo"]
+    },
+    {
+      "question": "¿Qué instrumento se utiliza para medir la presión atmosférica?",
+      "correct_answer": "Barómetro",
+      "answers": ["Termómetro", "Barómetro", "Higrómetro", "Anemómetro"]
+    },
+    {
+      "question": "¿Cuál es el elemento más abundante en el universo?",
+      "correct_answer": "Hidrógeno",
+      "answers": ["Helio", "Oxígeno", "Carbono", "Hidrógeno"]
+    },
+    {
+      "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+      "correct_answer": "Yuri Gagarin",
+      "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"]
+    },
+    {
+      "question": "¿Cuál es la capital de Australia?",
+      "correct_answer": "Canberra",
+      "answers": ["Sídney", "Melbourne", "Brisbane", "Canberra"]
+    },
+    {
+      "question": "¿Quién pintó 'La noche estrellada'?",
+      "correct_answer": "Vincent van Gogh",
+      "answers": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Claude Monet"]
+    },
+    {
+      "question": "¿Cuál es el metal líquido a temperatura ambiente?",
+      "correct_answer": "Mercurio",
+      "answers": ["Plata", "Cobre", "Mercurio", "Aluminio"]
+    },
+    {
+      "question": "¿Quién fue el primer presidente de la República de Cuba?",
+      "correct_answer": "Tomás Estrada Palma",
+      "answers": ["Fulgencio Batista", "Fidel Castro", "Tomás Estrada Palma", "José Miguel Gómez"]
+    },
+    {
+      "question": "¿Cuál es la capital de Brasil?",
+      "correct_answer": "Brasilia",
+      "answers": ["São Paulo", "Río de Janeiro", "Brasilia", "Buenos Aires"]
+    },
+	 {
+      "question": "¿Cuál es el animal terrestre más rápido del mundo?",
+      "correct_answer": "Guepardo",
+      "answers": ["Leopardo", "Cebra", "Peregrine falcon", "Guepardo"]
+    },
+    {
+      "question": "¿Cuál es el idioma oficial de Brasil?",
+      "correct_answer": "Portugués",
+      "answers": ["Inglés", "Español", "Portugués", "Francés"]
+    },
+    {
+      "question": "¿Quién escribió 'El viejo y el mar'?",
+      "correct_answer": "Ernest Hemingway",
+      "answers": ["Gabriel García Márquez", "Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"]
+    },
+    {
+      "question": "¿Cuál es la montaña más alta de África?",
+      "correct_answer": "Monte Kilimanjaro",
+      "answers": ["Monte Kilimanjaro", "Monte Everest", "Monte Aconcagua", "Mont Blanc"]
+    },
+    {
+      "question": "¿En qué país se encuentra la torre inclinada de Pisa?",
+      "correct_answer": "Italia",
+      "answers": ["Francia", "España", "Italia", "Grecia"]
+    },
+    {
+      "question": "¿Cuál es el nombre del satélite natural de la Tierra?",
+      "correct_answer": "Luna",
+      "answers": ["Sol", "Luna", "Marte", "Júpiter"]
+    },
+    {
+      "question": "¿Cuál es el río más largo de América del Norte?",
+      "correct_answer": "Río Misuri",
+      "answers": ["Río Colorado", "Río Misisipi", "Río Misuri", "Río Amazonas"]
+    },
+    {
+      "question": "¿Qué elemento químico tiene el símbolo 'Fe'?",
+      "correct_answer": "Hierro",
+      "answers": ["Calcio", "Hierro", "Potasio", "Sodio"]
+    },
+    {
+      "question": "¿Cuál es la capital de Alemania?",
+      "correct_answer": "Berlín",
+      "answers": ["Hamburgo", "Múnich", "Berlín", "Fráncfort del Meno"]
+    },
+    {
+      "question": "¿En qué país se encuentra el Taj Mahal?",
+      "correct_answer": "India",
+      "answers": ["Bangladesh", "Nepal", "India", "Pakistán"]
+    },
+    {
+      "question": "¿Quién escribió 'La iliada'?",
+      "correct_answer": "Homero",
+      "answers": ["Sófocles", "Virgilio", "Petrarca", "Homero"]
+    },
+    {
+      "question": "¿Cuál es la capital de Argentina?",
+      "correct_answer": "Buenos Aires",
+      "answers": ["Bogotá", "Santiago", "Caracas", "Buenos Aires"]
+    },
+    {
+      "question": "¿Cuál es el segundo planeta más cercano al sol?",
+      "correct_answer": "Venus",
+      "answers": ["Tierra", "Marte", "Júpiter", "Venus"]
+    },
+    {
+      "question": "¿Qué país es conocido como 'la tierra del sol naciente'?",
+      "correct_answer": "Japón",
+      "answers": ["China", "Corea del Sur", "India", "Japón"]
+    },
+    {
+      "question": "¿Quién escribió '1984'?",
+      "correct_answer": "George Orwell",
+      "answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"]
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá?",
+      "correct_answer": "Ottawa",
+      "answers": ["Toronto", "Montreal", "Vancouver", "Ottawa"]
+    },
+    {
+      "question": "¿En qué continente se encuentra el país de Turquía?",
+      "correct_answer": "Asia",
+      "answers": ["Europa", "África", "Oceanía", "Asia"]
+    },
+    {
+      "question": "¿Cuál es el país más pequeño del mundo?",
+      "correct_answer": "Ciudad del Vaticano",
+      "answers": ["Mónaco", "Nauru", "Tuvalu", "Ciudad del Vaticano"]
+    },
+    {
+      "question": "¿Qué famoso físico desarrolló la teoría de la relatividad?",
+      "correct_answer": "Albert Einstein",
+      "answers": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"]
+    },
+    {
+      "question": "¿Cuál es el país más grande del mundo en términos de área terrestre?",
+      "correct_answer": "Rusia",
+      "answers": ["China", "Estados Unidos", "Canadá", "Rusia"]
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del oro?",
+      "correct_answer": "Au",
+      "answers": ["Ag", "Au", "Fe", "Cu"]
+    },
+    {
+      "question": "¿Quién escribió 'La Divina Comedia'?",
+      "correct_answer": "Dante Alighieri",
+      "answers": ["Giovanni Boccaccio", "Petrarca", "Dante Alighieri", "Umberto Eco"]
+    },
+    {
+      "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "correct_answer": "1939",
+      "answers": ["1936", "1941", "1939", "1945"]
+    },
+    {
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "correct_answer": "Júpiter",
+      "answers": ["Marte", "Júpiter", "Saturno", "Urano"]
+    },
+    {
+      "question": "¿Quién pintó 'La persistencia de la memoria'?",
+      "correct_answer": "Salvador Dalí",
+      "answers": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dalí", "Claude Monet"]
+    },
+    {
+      "question": "¿Cuál es el animal más rápido del mundo?",
+      "correct_answer": "Peregrine falcon",
+      "answers": ["Leopardo", "Cebra", "Peregrine falcon", "Guepardo"]
+    },{
+      "question": "¿Cuál es el idioma más hablado del mundo?",
+      "correct_answer": "Chino mandarín",
+      "answers": ["Español", "Inglés", "Chino mandarín", "Hindi"]
+    },
+    {
+      "question": "¿Quién escribió 'Romeo y Julieta'?",
+      "correct_answer": "William Shakespeare",
+      "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"]
+    },
+    {
+      "question": "¿Cuál es el país con la población más grande del mundo?",
+      "correct_answer": "China",
+      "answers": ["India", "Estados Unidos", "China", "Indonesia"]
+    },
+    {
+      "question": "¿Quién escribió 'El principito'?",
+      "correct_answer": "Antoine de Saint-Exupéry",
+      "answers": ["Antoine de Saint-Exupéry", "Jorge Luis Borges", "Gabriel García Márquez", "Julio Cortázar"]
+    },
+    {
+      "question": "¿Cuál es el metal más pesado que se encuentra en la corteza terrestre?",
+      "correct_answer": "Osmio",
+      "answers": ["Plomo", "Oro", "Osmio", "Uranio"]
+    },
+    {
+      "question": "¿Quién fue el presidente de los Estados Unidos durante la Guerra Civil?",
+      "correct_answer": "Abraham Lincoln",
+      "answers": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "James Madison"]
+    },
+    {
+      "question": "¿Cuál es el país más pequeño del mundo?",
+      "correct_answer": "Ciudad del Vaticano",
+      "answers": ["Mónaco", "Nauru", "Tuvalu", "Ciudad del Vaticano"]
+    },
+    {
+      "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+      "correct_answer": "Yuri Gagarin",
+      "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"]
+    },
+    {
+      "question": "¿Cuál es la capital de Australia?",
+      "correct_answer": "Canberra",
+      "answers": ["Sídney", "Melbourne", "Brisbane", "Canberra"]
+    },
+    {
+      "question": "¿Quién pintó 'La noche estrellada'?",
+      "correct_answer": "Vincent van Gogh",
+      "answers": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Claude Monet"]
+    },
+    {
+      "question": "¿Cuál es el metal líquido a temperatura ambiente?",
+      "correct_answer": "Mercurio",
+      "answers": ["Plata", "Cobre", "Mercurio", "Aluminio"]
+    },
+    {
+      "question": "¿Quién fue el primer presidente de la República de Cuba?",
+      "correct_answer": "Tomás Estrada Palma",
+      "answers": ["Fulgencio Batista", "Fidel Castro", "Tomás Estrada Palma", "José Miguel Gómez"]
+    },
+    {
+      "question": "¿Cuál es la capital de Brasil?",
+      "correct_answer": "Brasilia",
+      "answers": ["São Paulo", "Río de Janeiro", "Brasilia", "Buenos Aires"]
+    },
+    {
+      "question": "¿Qué gas representa aproximadamente el 78% de la atmósfera terrestre?",
+      "correct_answer": "Nitrógeno",
+      "answers": ["Nitrógeno", "Oxígeno", "Dióxido de carbono", "Argón"]
+    },
+    {
+      "question": "¿Quién es el autor de 'La metamorfosis'?",
+      "correct_answer": "Franz Kafka",
+      "answers": ["Franz Kafka", "Fyodor Dostoevsky", "Leo Tolstoy", "Albert Camus"]
+    },
+    {
+      "question": "¿Cuál es el país más grande del mundo en términos de área terrestre?",
+      "correct_answer": "Rusia",
+      "answers": ["China", "Estados Unidos", "Canadá", "Rusia"]
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del oro?",
+      "correct_answer": "Au",
+      "answers": ["Ag", "Au", "Fe", "Cu"]
+    },
+    {
+      "question": "¿Quién escribió 'La Divina Comedia'?",
+      "correct_answer": "Dante Alighieri",
+      "answers": ["Giovanni Boccaccio", "Petrarca", "Dante Alighieri", "Umberto Eco"]
+    },
+    {
+      "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "correct_answer": "1939",
+      "answers": ["1936", "1941", "1939", "1945"]
+    },
+	    {
+      "question": "¿Cuál es la capital de Alemania?",
+      "correct_answer": "Berlín",
+      "answers": ["Hamburgo", "Múnich", "Berlín", "Fráncfort del Meno"]
+    },
+    {
+      "question": "¿En qué país se encuentra el Taj Mahal?",
+      "correct_answer": "India",
+      "answers": ["Bangladesh", "Nepal", "India", "Pakistán"]
+    },
+    {
+      "question": "¿Quién escribió 'La iliada'?",
+      "correct_answer": "Homero",
+      "answers": ["Sófocles", "Virgilio", "Petrarca", "Homero"]
+    },
+    {
+      "question": "¿Cuál es la capital de Argentina?",
+      "correct_answer": "Buenos Aires",
+      "answers": ["Bogotá", "Santiago", "Caracas", "Buenos Aires"]
+    },
+    {
+      "question": "¿Cuál es el segundo planeta más cercano al sol?",
+      "correct_answer": "Venus",
+      "answers": ["Tierra", "Marte", "Júpiter", "Venus"]
+    },
+    {
+      "question": "¿Qué país es conocido como 'la tierra del sol naciente'?",
+      "correct_answer": "Japón",
+      "answers": ["China", "Corea del Sur", "India", "Japón"]
+    },
+    {
+      "question": "¿Quién escribió '1984'?",
+      "correct_answer": "George Orwell",
+      "answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"]
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá?",
+      "correct_answer": "Ottawa",
+      "answers": ["Toronto", "Montreal", "Vancouver", "Ottawa"]
+    },
+    {
+      "question": "¿En qué continente se encuentra el país de Turquía?",
+      "correct_answer": "Asia",
+      "answers": ["Europa", "África", "Oceanía", "Asia"]
+    },
+    {
+      "question": "¿Cuál es el país más grande del mundo en términos de área terrestre?",
+      "correct_answer": "Rusia",
+      "answers": ["China", "Estados Unidos", "Canadá", "Rusia"]
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del oro?",
+      "correct_answer": "Au",
+      "answers": ["Ag", "Au", "Fe", "Cu"]
+    },
+    {
+      "question": "¿Quién escribió 'La Divina Comedia'?",
+      "correct_answer": "Dante Alighieri",
+      "answers": ["Giovanni Boccaccio", "Petrarca", "Dante Alighieri", "Umberto Eco"]
+    },
+    {
+      "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "correct_answer": "1939",
+      "answers": ["1936", "1941", "1939", "1945"]
+    },
+    {
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "correct_answer": "Júpiter",
+      "answers": ["Marte", "Júpiter", "Saturno", "Urano"]
+    },
+    {
+      "question": "¿Cuál es el nombre del satélite natural de la Tierra?",
+      "correct_answer": "Luna",
+      "answers": ["Sol", "Luna", "Marte", "Júpiter"]
+    },
+    {
+      "question": "¿Cuál es el río más largo de América del Norte?",
+      "correct_answer": "Río Misuri",
+      "answers": ["Río Colorado", "Río Misisipi", "Río Misuri", "Río Amazonas"]
+    },
+    {
+      "question": "¿Qué elemento químico tiene el símbolo 'Fe'?",
+      "correct_answer": "Hierro",
+      "answers": ["Calcio", "Hierro", "Potasio", "Sodio"]
+    },
+    {
+      "question": "¿Quién fue el presidente de los Estados Unidos durante la Guerra Civil?",
+      "correct_answer": "Abraham Lincoln",
+      "answers": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "James Madison"]
+    },
+    {
+      "question": "¿Cuál es el país más pequeño del mundo?",
+      "correct_answer": "Ciudad del Vaticano",
+      "answers": ["Mónaco", "Nauru", "Tuvalu", "Ciudad del Vaticano"]
+    },
+    {
+      "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+      "correct_answer": "Yuri Gagarin",
+      "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"]
+    },
+    {
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "correct_answer": "Júpiter",
+      "answers": ["Marte", "Júpiter", "Saturno", "Urano"]
     }
   ]
 }
